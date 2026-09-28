@@ -32,6 +32,8 @@ XGENVERSE
 
 The broader XGEN ecosystem hub connecting education, tools, games, infrastructure, and community utility.
 
+Development status: XGEN Locker, XGEN Tactics, and CandleStrike are under active private development. XGEN Token Intel is the public reference repository demonstrating XGEN engineering standards.
+
 Engineering Focus
 
 • Solana programs and protocol infrastructure
